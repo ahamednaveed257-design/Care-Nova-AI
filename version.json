@@ -1,0 +1,6 @@
+{
+  "appVersion": "5.0.343",
+  "assetVersion": "5.0.343",
+  "build": "2026-07-07-cache-refresh",
+  "cachePolicy": "network-first-critical-assets"
+}
