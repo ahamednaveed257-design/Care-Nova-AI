@@ -1,0 +1,53 @@
+Welcome to Care Nova AI, built by Naveed Ahamed.
+
+This walkthrough shows how to use the agent safely, one step at a time.
+
+Follow the visual pointer, read the captions, then use the same flow inside the app.
+
+Chapter 1. Start here: Care Nova is a private workspace for asking, reviewing, saving, and sharing safer health information.
+
+Chapter 2. Set the privacy base first: local records are the trusted memory that all agents reuse.
+
+Chapter 3. Build the patient profile before asking questions so every answer has useful context.
+
+Chapter 4. Use one clear question with timing, severity, readings, medicines, and warning signs.
+
+Chapter 5. Every request moves through memory, intent routing, one specialist agent, safety, reply, and saved memory.
+
+Chapter 6. Use General first when you are unsure where to begin or need a plain next step.
+
+Chapter 7. Use Specialist when the concern belongs to a core disease area or body system.
+
+Chapter 8. Use Atlas when you want to learn from ready guides before taking the next step.
+
+Chapter 9. Use Vitals to turn readings into patterns, not isolated numbers.
+
+Chapter 10. Use Medicine to prepare safe pharmacist or clinician questions without changing doses yourself.
+
+Chapter 11. Use Labs to convert report values into simple explanations and follow-up questions.
+
+Chapter 12. Use Wellness to build age-aware daily habits that can be saved as feedback.
+
+Chapter 13. Use Visits to prepare booking details, doctor questions, and follow-up notes.
+
+Chapter 14. Use Safety whenever urgent warning signs may be present.
+
+Chapter 15. Use Insurance to organize claim evidence, benefits, documents, and appeal questions.
+
+Chapter 16. Use Records after every meaningful check so the next run has stronger memory.
+
+Chapter 17. Use Summary before visits or sharing with a care team.
+
+Chapter 18. Switch Guided and Expert based on how much detail the user needs.
+
+Chapter 19. Use online enrichment when available, but keep the local record as the trusted source.
+
+Chapter 20. Save useful answers and feedback so routing and summaries become more precise.
+
+Chapter 21. Daily best flow: profile, choose tab, ask once, review safety, save the output.
+
+Chapter 22. Remember the boundary: Care Nova supports education, organization, and safe next steps.
+
+That is the complete Care Nova workflow.
+
+Use one focused tab at a time, review safety, and save useful results to local records.

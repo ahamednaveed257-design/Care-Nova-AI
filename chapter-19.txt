@@ -1,0 +1,1 @@
+Chapter 19. Online mode can enrich approved references. Offline mode still uses saved records, cached guides, and local memory.

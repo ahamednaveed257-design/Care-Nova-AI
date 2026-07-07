@@ -1,0 +1,1 @@
+Chapter 16. Use Records after meaningful checks so symptoms, vitals, labs, medicines, visits, claims, and summaries stay searchable.

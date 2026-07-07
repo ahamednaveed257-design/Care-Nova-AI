@@ -1,0 +1,1 @@
+Chapter 9. Use Vitals to review blood pressure, sugar, pulse, oxygen, temperature, BMI, measurement quality, and trends.

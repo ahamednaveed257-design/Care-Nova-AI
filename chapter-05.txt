@@ -1,0 +1,1 @@
+Chapter 5. Watch the agent loop: memory loads, intent routes, one specialist answers, safety checks run, and useful details save.

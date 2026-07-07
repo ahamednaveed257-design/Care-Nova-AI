@@ -1,0 +1,1 @@
+Chapter 3. Build the patient profile with age, conditions, medicines, allergies, baseline readings, care contacts, and preferences.

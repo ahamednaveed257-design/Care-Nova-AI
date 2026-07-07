@@ -1,0 +1,65 @@
+chapter-01 @ 0.8s
+Welcome to Care Nova AI, built by Naveed Ahamed. Start here: Care Nova is a private health command center that turns patient questions into safe, organized, record-ready guidance.
+
+chapter-02 @ 13.1s
+Chapter 2. Set privacy first: local storage, the record vault, and the OneDrive mirror are the trusted memory every agent can reuse.
+
+chapter-03 @ 25.1s
+Chapter 3. Create the active patient profile so age, conditions, medicines, allergies, baseline readings, care contacts, and preferences guide each answer.
+
+chapter-04 @ 37.0s
+Chapter 4. Ask one focused question with timing, severity, readings, medicine timing, what changed, and any warning signs.
+
+chapter-05 @ 49.0s
+Chapter 5. The agentic loop is simple: memory loads, intent is classified, one specialist responds, safety checks run, and memory updates.
+
+chapter-06 @ 61.0s
+Chapter 6. Use General for everyday symptoms, prevention questions, and a clear first next step when you do not know which tab to choose.
+
+chapter-07 @ 73.0s
+Chapter 7. Use Specialist for deeper disease review across heart, diabetes, kidney, asthma, thyroid, liver, brain, stomach, and chronic-care concerns.
+
+chapter-08 @ 85.0s
+Chapter 8. Use Atlas as the learning library: disease guides, prevention, tests, medicine safety, imaging, first aid, warning signs, and care questions.
+
+chapter-09 @ 97.0s
+Chapter 9. Use Vitals for daily readings: BP, sugar, pulse, oxygen, temperature, BMI, measurement quality, maintenance tips, and trends.
+
+chapter-10 @ 109.0s
+Chapter 10. Use Medicine for brand or generic medicine education, uses, side-effect signals, missed timing, interactions, storage, and pharmacist questions.
+
+chapter-11 @ 121.0s
+Chapter 11. Use Labs to upload or paste reports, extract markers, explain values, compare trends, find missing context, and download patient summaries.
+
+chapter-12 @ 133.1s
+Chapter 12. Use Wellness to build age-aware routines for sleep, diet, hydration, walking, stress, mental wellness, prevention, and habit feedback.
+
+chapter-13 @ 145.1s
+Chapter 13. Use Visits to prepare appointment booking, follow-up questions, specialty choice, urgency, records packet, and visit handoff text.
+
+chapter-14 @ 157.1s
+Chapter 14. Use Safety when red flags appear; it explains urgency, first safe action, what to collect, and where app boundaries stop.
+
+chapter-15 @ 169.1s
+Chapter 15. Use Insurance to organize claim method, benefits, documents, prior authorization, E O B review, appeal deadlines, and coverage questions.
+
+chapter-16 @ 181.1s
+Chapter 16. Use Records after meaningful checks so symptoms, vitals, labs, medicines, visits, insurance cases, and summaries stay searchable locally.
+
+chapter-17 @ 193.1s
+Chapter 17. Use Summary to see what happened so far, current risk, trends, missing data, record quality, readiness, and a doctor-ready note.
+
+chapter-18 @ 205.1s
+Chapter 18. Use Guided mode for beginner steps, Expert mode for evidence and review detail, and language controls for a more accessible interface.
+
+chapter-19 @ 217.1s
+Chapter 19. Online mode can enrich approved references; offline mode still runs on saved records, cached guides, local memory, and the same core workflow.
+
+chapter-20 @ 229.1s
+Chapter 20. Improve accuracy by saving useful answers, approving feedback, adding missing context, and letting the local calibration improve routing.
+
+chapter-21 @ 241.1s
+Chapter 21. Best daily flow: confirm profile, choose one tab, ask once, review safety, save output, update records, then open Summary.
+
+chapter-22 @ 253.1s
+Chapter 22. Remember the boundary: Care Nova educates, organizes, and prepares safer questions; real medical decisions belong to qualified care teams.

@@ -1,0 +1,65 @@
+chapter-01 @ 0.8s
+Welcome to Care Nova AI, built by Naveed Ahamed. Start here: Care Nova is a private workspace for asking, reviewing, saving, and sharing safer health information.
+
+chapter-02 @ 13.1s
+Chapter 2. Set the privacy base first: local records are the trusted memory that all agents reuse.
+
+chapter-03 @ 25.1s
+Chapter 3. Build the patient profile before asking questions so every answer has useful context.
+
+chapter-04 @ 37.0s
+Chapter 4. Use one clear question with timing, severity, readings, medicines, and warning signs.
+
+chapter-05 @ 49.0s
+Chapter 5. Every request moves through memory, intent routing, one specialist agent, safety, reply, and saved memory.
+
+chapter-06 @ 61.0s
+Chapter 6. Use General first when you are unsure where to begin or need a plain next step.
+
+chapter-07 @ 73.0s
+Chapter 7. Use Specialist when the concern belongs to a core disease area or body system.
+
+chapter-08 @ 85.0s
+Chapter 8. Use Atlas when you want to learn from ready guides before taking the next step.
+
+chapter-09 @ 97.0s
+Chapter 9. Use Vitals to turn readings into patterns, not isolated numbers.
+
+chapter-10 @ 109.0s
+Chapter 10. Use Medicine to prepare safe pharmacist or clinician questions without changing doses yourself.
+
+chapter-11 @ 121.0s
+Chapter 11. Use Labs to convert report values into simple explanations and follow-up questions.
+
+chapter-12 @ 133.1s
+Chapter 12. Use Wellness to build age-aware daily habits that can be saved as feedback.
+
+chapter-13 @ 145.1s
+Chapter 13. Use Visits to prepare booking details, doctor questions, and follow-up notes.
+
+chapter-14 @ 157.1s
+Chapter 14. Use Safety whenever urgent warning signs may be present.
+
+chapter-15 @ 169.1s
+Chapter 15. Use Insurance to organize claim evidence, benefits, documents, and appeal questions.
+
+chapter-16 @ 181.1s
+Chapter 16. Use Records after every meaningful check so the next run has stronger memory.
+
+chapter-17 @ 193.1s
+Chapter 17. Use Summary before visits or sharing with a care team.
+
+chapter-18 @ 205.1s
+Chapter 18. Switch Guided and Expert based on how much detail the user needs.
+
+chapter-19 @ 217.1s
+Chapter 19. Use online enrichment when available, but keep the local record as the trusted source.
+
+chapter-20 @ 229.1s
+Chapter 20. Save useful answers and feedback so routing and summaries become more precise.
+
+chapter-21 @ 241.1s
+Chapter 21. Daily best flow: profile, choose tab, ask once, review safety, save the output.
+
+chapter-22 @ 253.1s
+Chapter 22. Remember the boundary: Care Nova supports education, organization, and safe next steps.
