@@ -1,1 +1,1 @@
-Chapter 17. Use Summary before handoffs to review the current story, risk signals, trends, missing data, and doctor notes.
+Chapter 17. Use Summary to see what happened till now, what is missing, current risk, useful trends, records quality, and a doctor-ready note.

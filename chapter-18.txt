@@ -1,1 +1,1 @@
-Chapter 18. Choose Guided for simple steps, Expert for evidence detail, and language controls for accessible use.
+Chapter 18. Use Guided mode for simple patient steps and Expert mode for richer evidence, workflow detail, and reviewer-level context.

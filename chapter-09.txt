@@ -1,1 +1,1 @@
-Chapter 9. Use Vitals to review blood pressure, sugar, pulse, oxygen, temperature, BMI, measurement quality, and trends.
+Chapter 9. Use Vitals as the daily readings specialist for blood pressure, sugar, pulse, temperature, oxygen, BMI, and trend context.

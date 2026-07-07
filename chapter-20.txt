@@ -1,1 +1,1 @@
-Chapter 20. Improve accuracy by saving useful answers, adding missing context, approving feedback, and letting calibration sharpen routing.
+Chapter 20. Improve accuracy by saving helpful answers, marking missing context, and letting feedback strengthen future routing and summaries.
