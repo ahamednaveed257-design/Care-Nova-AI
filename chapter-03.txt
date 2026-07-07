@@ -1,1 +1,1 @@
-Chapter 3. Create the active patient profile so age, conditions, medicines, allergies, baseline readings, and care contacts guide every response.
+Chapter 3. Build the patient profile before asking questions so every answer has useful context.

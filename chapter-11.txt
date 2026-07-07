@@ -1,1 +1,1 @@
-Chapter 11. Use Labs to upload or paste report values, understand markers, spot missing context, and download patient-specific summaries.
+Chapter 11. Use Labs to convert report values into simple explanations and follow-up questions.

@@ -1,1 +1,1 @@
-Chapter 20. Improve accuracy by saving helpful answers, marking missing context, and letting feedback strengthen future routing and summaries.
+Chapter 20. Save useful answers and feedback so routing and summaries become more precise.

@@ -1,1 +1,1 @@
-Chapter 5. The agentic loop is memory, intent classifier, one routed specialist, safety guardrails, patient reply, and memory update.
+Chapter 5. Every request moves through memory, intent routing, one specialist agent, safety, reply, and saved memory.

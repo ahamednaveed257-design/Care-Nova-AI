@@ -1,1 +1,1 @@
-Chapter 16. Use Records after meaningful checks so symptoms, vitals, labs, medicines, visits, insurance, and summaries remain searchable locally.
+Chapter 16. Use Records after every meaningful check so the next run has stronger memory.

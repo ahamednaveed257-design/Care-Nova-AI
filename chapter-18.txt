@@ -1,1 +1,1 @@
-Chapter 18. Use Guided mode for simple patient steps and Expert mode for richer evidence, workflow detail, and reviewer-level context.
+Chapter 18. Switch Guided and Expert based on how much detail the user needs.

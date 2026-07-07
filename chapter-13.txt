@@ -1,1 +1,1 @@
-Chapter 13. Use Visits to prepare booking details, follow-up questions, visit notes, specialty choice, urgency level, and handoff text.
+Chapter 13. Use Visits to prepare booking details, doctor questions, and follow-up notes.
